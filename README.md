@@ -151,4 +151,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 Tecnologia aplicada à operação real
 
 GitHub: [FernandoTechSeeker](https://github.com/FernandoTechSeeker)  
-E-mail: fcanto08@gmail.com
+LinkedIn: [Fernando Canto](https://www.linkedin.com/in/fernandocanto/)  
+E-mail: fcanto08@gmail.com  
+WhatsApp: [81997155279](https://wa.me/5581997155279)
