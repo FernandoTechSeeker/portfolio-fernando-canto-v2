@@ -169,7 +169,7 @@
 .hero {
   position: relative;
   overflow: hidden;
-  padding: 112px 0 92px;
+  padding: 84px 0 78px;
   background:
     radial-gradient(circle at 10% 20%, rgba(214, 168, 79, 0.18), transparent 28%),
     radial-gradient(circle at 90% 20%, rgba(15, 118, 110, 0.22), transparent 32%),
@@ -190,8 +190,8 @@
 .hero-grid {
   position: relative;
   display: grid;
-  grid-template-columns: 1.2fr 0.8fr;
-  gap: 56px;
+  grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.78fr);
+  gap: 64px;
   align-items: center;
 }
 
@@ -201,15 +201,22 @@
   color: #FFFFFF;
 }
 
+.hero h1 {
+  max-width: 760px;
+  font-size: clamp(3rem, 4.8vw, 5.35rem);
+  line-height: 0.98;
+  letter-spacing: -0.07em;
+}
+
 .hero .eyebrow {
   color: var(--color-accent);
 }
 
 .hero-text {
-  max-width: 760px;
+  max-width: 720px;
   margin-top: 24px;
   color: rgba(255, 255, 255, 0.78);
-  font-size: 1.08rem;
+  font-size: 1.04rem;
 }
 
 .hero-actions {
@@ -238,10 +245,10 @@
 .hero-photo-card {
   position: relative;
   justify-self: end;
-  width: min(100%, 380px);
-  padding: 14px;
+  width: min(100%, 420px);
+  padding: 12px;
   border: 1px solid rgba(255, 255, 255, 0.14);
-  border-radius: 32px;
+  border-radius: 30px;
   background: rgba(255, 255, 255, 0.08);
   box-shadow: 0 28px 70px rgba(0, 0, 0, 0.22);
 }
@@ -252,14 +259,14 @@
   object-fit: cover;
   object-position: center top;
   border: 1px solid rgba(255, 255, 255, 0.18);
-  border-radius: 24px;
+  border-radius: 22px;
 }
 
 .hero-photo-badge {
   position: absolute;
-  left: 28px;
-  right: 28px;
-  bottom: 28px;
+  left: 24px;
+  right: 24px;
+  bottom: 24px;
   padding: 10px 14px;
   border: 1px solid rgba(214, 168, 79, 0.35);
   border-radius: 14px;
