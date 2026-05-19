@@ -169,7 +169,7 @@
 .hero {
   position: relative;
   overflow: hidden;
-  padding: 84px 0 78px;
+  padding: 76px 0 88px;
   background:
     radial-gradient(circle at 10% 20%, rgba(214, 168, 79, 0.18), transparent 28%),
     radial-gradient(circle at 90% 20%, rgba(15, 118, 110, 0.22), transparent 32%),
@@ -246,8 +246,8 @@
   position: relative;
   justify-self: end;
   align-self: start;
-  width: min(100%, 380px);
-  margin-top: -8px;
+  width: min(100%, 360px);
+  margin-top: -18px;
   padding: 12px;
   border: 1px solid rgba(255, 255, 255, 0.14);
   border-radius: 30px;
@@ -266,15 +266,15 @@
 
 .hero-photo-badge {
   position: absolute;
-  left: 24px;
-  right: 24px;
-  bottom: 24px;
-  padding: 10px 14px;
+  left: 22px;
+  right: 22px;
+  bottom: 22px;
+  padding: 9px 12px;
   border: 1px solid rgba(214, 168, 79, 0.35);
   border-radius: 14px;
   background: rgba(19, 39, 47, 0.86);
   color: #FFFFFF;
-  font-size: 0.78rem;
+  font-size: 0.76rem;
   font-weight: 900;
   letter-spacing: 0.04em;
   text-align: center;
