@@ -1,38 +1,42 @@
 # Portfólio Profissional — Fernando Canto
 
-Portfólio profissional desenvolvido para apresentar minha trajetória, projetos e atuação na conexão entre **tecnologia, processos, dados, inteligência artificial e organização operacional**.
+Portfólio profissional desenvolvido para apresentar minha trajetória, meus projetos e minha atuação na conexão entre **operações, processos, tecnologia, dados, inteligência artificial e organização administrativa**.
 
-Este projeto nasce como uma nova versão do meu posicionamento profissional: mais claro, mais estratégico e mais alinhado com minha construção na área de tecnologia.
+O projeto representa meu posicionamento profissional atual: um profissional com experiência prática em gestão operacional e administrativa, utilizando tecnologia para estruturar controles, organizar informações, melhorar processos e reduzir retrabalho.
 
 ---
 
-## Posicionamento
+## Posicionamento profissional
 
 **Tecnologia aplicada à operação real.**
 
-Minha proposta é transformar processos operacionais manuais em soluções digitais simples, claras e acompanháveis.
+Minha atuação está concentrada na organização de operações, melhoria de processos e desenvolvimento de soluções digitais aplicáveis à rotina das empresas.
 
-Minha base vem da operação: atendimento, controle, logística, liderança de fila e administração. Hoje, conecto essa vivência com minha formação em **Análise e Desenvolvimento de Sistemas** para criar soluções com foco em organização, dados, eficiência e redução de retrabalho.
+Minha base profissional foi construída em ambientes de atendimento, controle financeiro, logística, administração, liderança de equipes e gestão operacional. Atualmente, conecto essa experiência prática à minha formação em **Análise e Desenvolvimento de Sistemas**, criando soluções com foco em organização, rastreabilidade, eficiência e tomada de decisão.
 
----
-
-## Objetivo do projeto
-
-Este portfólio tem como objetivo apresentar:
-
-- minha transição profissional para a área de tecnologia;
-- minha experiência prática em ambientes operacionais e administrativos;
-- projetos desenvolvidos com foco em sistemas, dados, planilhas, dashboards e páginas digitais;
-- minha capacidade de transformar problemas reais em soluções estruturadas;
-- minha evolução técnica em desenvolvimento web, automação, organização de processos e inteligência artificial aplicada.
-
-O objetivo não é apenas mostrar projetos, mas demonstrar uma linha de raciocínio profissional:
-
-> entender o problema, organizar informações, estruturar processos e aplicar tecnologia de forma simples e funcional.
+Meu objetivo é transformar problemas operacionais reais em processos mais claros, estruturados e acompanháveis.
 
 ---
 
-## Tecnologias previstas
+## Objetivo do portfólio
+
+Este portfólio foi criado para apresentar:
+
+- minha experiência em operações, processos e gestão administrativa;
+- minha evolução profissional na área de tecnologia;
+- projetos desenvolvidos a partir de problemas reais;
+- soluções em planilhas, dashboards, sistemas, automações e páginas digitais;
+- minha capacidade de identificar gargalos e estruturar fluxos de trabalho;
+- o uso de dados e tecnologia como apoio à gestão e à tomada de decisão;
+- minha evolução técnica em desenvolvimento web, inteligência artificial e organização de processos.
+
+Mais do que exibir projetos, o portfólio demonstra meu método de trabalho:
+
+> entender o problema, organizar as informações, estruturar o processo e aplicar tecnologia de forma simples, funcional e sustentável.
+
+---
+
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
@@ -40,19 +44,31 @@ O objetivo não é apenas mostrar projetos, mas demonstrar uma linha de raciocí
 - Git
 - GitHub
 - GitHub Pages
+- Google Sheets
 
-Também serão aplicados conceitos de HTML semântico, design responsivo, arquitetura de informação, copywriting profissional, SEO básico, acessibilidade básica e documentação de projeto.
+Também são aplicados conceitos de:
+
+- HTML semântico;
+- design responsivo;
+- arquitetura da informação;
+- experiência do usuário;
+- copywriting profissional;
+- SEO básico;
+- acessibilidade;
+- documentação de projetos;
+- organização de processos;
+- inteligência artificial aplicada à produtividade.
 
 ---
 
 ## Estrutura do site
 
-A primeira versão do portfólio será composta por:
+O portfólio está organizado nas seguintes áreas:
 
-- **Home** — posicionamento, trajetória, soluções, projetos, método, habilidades, diferenciais e contato.
-- **Projetos** — lista dos projetos desenvolvidos com problema, solução, ferramentas e aprendizado.
-- **Soluções** — página voltada para atuação prática em planilhas, dashboards, automação, sites e IA aplicada.
-- **Estudo de caso SGO** — página específica para apresentar o Sistema de Gestão Operacional.
+- **Home** — posicionamento profissional, trajetória, soluções, projetos, método de trabalho, habilidades e contato.
+- **Projetos** — apresentação dos projetos desenvolvidos, incluindo problema, solução, ferramentas e aprendizados.
+- **Soluções** — serviços e aplicações práticas em planilhas, dashboards, processos, sites, sistemas e inteligência artificial.
+- **Estudo de caso SGO** — apresentação detalhada do Sistema de Gestão Operacional.
 
 ---
 
@@ -60,31 +76,54 @@ A primeira versão do portfólio será composta por:
 
 ### SGO — Sistema de Gestão Operacional
 
-Sistema em Google Sheets criado para centralizar rotinas administrativas, financeiras e operacionais.
+Sistema desenvolvido em Google Sheets para centralizar informações administrativas, financeiras e operacionais.
+
+A solução integra controles de mensalidades, cobranças, contratos, estoque, medicações, tarefas, documentos, rotinas e indicadores, facilitando o acompanhamento da operação e reduzindo a dispersão de informações.
 
 ### CRM com Presença
 
-Sistema web simples para cadastro, busca, edição, exclusão e acompanhamento de registros.
+Sistema web para cadastro, consulta, edição, exclusão e acompanhamento de registros, desenvolvido como projeto de evolução em desenvolvimento de software.
 
 ### Apoio Familiar PE/PB
 
-Landing page informativa com foco em clareza, orientação inicial e contato via WhatsApp.
+Landing page informativa desenvolvida para orientar famílias, apresentar informações de forma clara e facilitar o contato por WhatsApp.
 
 ### CT É Preciso Acreditar
 
-Site institucional criado para apresentar estrutura, proposta, informações e contato de uma comunidade terapêutica.
+Site institucional criado para apresentar a estrutura, os serviços, a proposta de trabalho e os canais de contato de uma comunidade terapêutica.
 
 ### Controles financeiros e administrativos
 
-Planilhas e estruturas de controle para acompanhar entradas, saídas, categorias, contas, pagamentos, vencimentos e indicadores.
+Planilhas e estruturas de gestão criadas para acompanhar entradas, saídas, categorias, contas, pagamentos, vencimentos, cobranças e indicadores operacionais.
+
+---
+
+## Método de trabalho
+
+Minha forma de desenvolver soluções segue seis etapas principais:
+
+1. **Diagnóstico** — compreensão do problema, da rotina e dos controles existentes.
+2. **Organização** — estruturação de dados, categorias, responsáveis, status e prioridades.
+3. **Mapeamento do processo** — identificação dos fluxos, gargalos e pontos de melhoria.
+4. **Desenvolvimento da solução** — construção da planilha, dashboard, sistema, site ou automação.
+5. **Testes e validação** — conferência da lógica, usabilidade e funcionamento.
+6. **Implantação e melhoria contínua** — orientação de uso, acompanhamento e evolução da solução.
 
 ---
 
 ## Design System
 
-Conceito visual: clareza, controle, maturidade, confiança, organização, tecnologia prática e aparência de sistema.
+O conceito visual do projeto está baseado em:
 
-Paleta principal:
+- clareza;
+- controle;
+- maturidade;
+- confiança;
+- organização;
+- tecnologia prática;
+- aparência profissional.
+
+### Paleta principal
 
 - Fundo principal: `#F8FAFC`
 - Fundo alternativo: `#EEF2F6`
@@ -126,31 +165,3 @@ portfolio-fernando-canto-v2/
 │
 └── cases/
     └── sgo.html
-```
-
----
-
-## Cuidados com privacidade
-
-Todos os prints, demonstrações e estudos de caso deverão usar dados fictícios. Não devem ser expostos nomes reais, dados financeiros sensíveis, informações de clientes, pacientes, familiares, contratos ou documentos internos.
-
----
-
-## Status do projeto
-
-```text
-Em desenvolvimento inicial.
-```
-
----
-
-## Autor
-
-**Fernando Canto**  
-Estudante de Análise e Desenvolvimento de Sistemas  
-Tecnologia aplicada à operação real
-
-GitHub: [FernandoTechSeeker](https://github.com/FernandoTechSeeker)  
-LinkedIn: [Fernando Canto](https://www.linkedin.com/in/fernandocanto/)  
-E-mail: fcanto08@gmail.com  
-WhatsApp: [81997155279](https://wa.me/5581997155279)
