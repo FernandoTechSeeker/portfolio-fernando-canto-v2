@@ -3,20 +3,41 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <title>Projetos | Fernando Canto</title>
-  <meta name="description" content="Projetos de Fernando Canto em sistemas, planilhas inteligentes, dashboards, sites, landing pages e organização operacional." />
+
+  <meta
+    name="description"
+    content="Projetos de Fernando Canto em sistemas, planilhas inteligentes, dashboards, processos, sites, landing pages, dados e organização operacional."
+  />
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet" href="assets/css/components.css" />
   <link rel="stylesheet" href="assets/css/responsive.css" />
 </head>
+
 <body>
   <header class="site-header">
     <nav class="navbar container" aria-label="Menu principal">
       <a href="index.html" class="logo">Fernando Canto</a>
-      <button class="menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false">☰</button>
+
+      <button
+        class="menu-toggle"
+        type="button"
+        aria-label="Abrir menu"
+        aria-expanded="false"
+      >
+        ☰
+      </button>
+
       <ul class="nav-links">
         <li><a href="index.html#inicio">Início</a></li>
         <li><a href="index.html#sobre">Sobre</a></li>
@@ -32,25 +53,375 @@
     <section class="hero">
       <div class="container">
         <p class="eyebrow">Projetos</p>
+
         <h1>Projetos construídos a partir de problemas reais.</h1>
-        <p class="hero-text">Esta página vai reunir estudos de caso e projetos práticos em sistemas, planilhas inteligentes, dashboards, sites, landing pages e organização operacional.</p>
+
+        <p class="hero-text">
+          Esta página reúne estudos de caso e projetos práticos em sistemas,
+          planilhas inteligentes, dashboards, sites, landing pages, dados e
+          organização operacional.
+        </p>
       </div>
     </section>
 
     <section class="section">
       <div class="container">
+        <article class="project-featured card-featured">
+          <img
+            src="assets/img/projetos/sgo/dash.png"
+            alt="Dashboard executivo do Sistema de Gestão Operacional"
+            class="project-placeholder"
+            style="width: 100%; min-height: 320px; object-fit: cover;"
+          />
+
+          <div>
+            <span class="tag tag-accent">Projeto principal</span>
+
+            <h2>SGO — Sistema de Gestão Operacional</h2>
+
+            <p>
+              Sistema desenvolvido em Google Sheets para centralizar
+              informações administrativas, financeiras e operacionais.
+            </p>
+
+            <p>
+              <strong>Problema:</strong> informações distribuídas em
+              diferentes arquivos, controles manuais, dificuldades no
+              acompanhamento de cobranças, estoque, contratos e rotinas.
+            </p>
+
+            <p>
+              <strong>Solução:</strong> aproximadamente 20 abas integradas
+              para controle de mensalidades, cobranças, contratos, estoque,
+              medicações, tarefas, documentos, rotinas e indicadores.
+            </p>
+
+            <p>
+              <strong>Aplicação:</strong> apoio à direção, coordenação,
+              administrativo e equipe operacional em uma plataforma única de
+              acompanhamento.
+            </p>
+
+            <div class="tag-list">
+              <span>Google Sheets</span>
+              <span>Dashboards</span>
+              <span>Indicadores</span>
+              <span>Processos</span>
+              <span>Operações</span>
+            </div>
+
+            <a href="cases/sgo.html" class="link-action">
+              Ver estudo de caso completo
+            </a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-header">
+          <p class="eyebrow">Sistemas e desenvolvimento</p>
+
+          <h2>Projetos de software e organização de registros.</h2>
+
+          <p>
+            Projetos desenvolvidos durante minha evolução técnica em
+            desenvolvimento web, sistemas e estruturação de dados.
+          </p>
+        </div>
+
         <div class="project-grid">
-          <article class="card project-card"><h3>SGO — Sistema de Gestão Operacional</h3><p>Sistema em Google Sheets para centralizar rotinas administrativas, financeiras e operacionais.</p><a href="cases/sgo.html" class="link-action">Ver estudo de caso</a></article>
-          <article class="card project-card"><h3>CRM com Presença</h3><p>Sistema web simples para cadastro, busca, edição, exclusão e acompanhamento de registros.</p></article>
-          <article class="card project-card"><h3>Apoio Familiar PE/PB</h3><p>Landing page informativa com foco em clareza, orientação inicial e contato via WhatsApp.</p></article>
-          <article class="card project-card"><h3>CT É Preciso Acreditar</h3><p>Site institucional criado para apresentar estrutura, proposta, informações e contato.</p></article>
-          <article class="card project-card"><h3>Controles financeiros e administrativos</h3><p>Planilhas e estruturas de controle para acompanhar entradas, saídas, pagamentos e indicadores.</p></article>
+          <article class="card project-card">
+            <h3>CRM com Presença</h3>
+
+            <p>
+              Sistema web para cadastro, consulta, edição, exclusão e
+              acompanhamento de registros.
+            </p>
+
+            <p>
+              O projeto trabalha conceitos de CRUD, organização de dados,
+              interface, usabilidade e acompanhamento de informações.
+            </p>
+
+            <div class="tag-list">
+              <span>CRM</span>
+              <span>CRUD</span>
+              <span>JavaScript</span>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <h3>Sistema de Vendas em Java</h3>
+
+            <p>
+              Projeto acadêmico voltado ao registro de produtos, operações de
+              venda e organização de informações.
+            </p>
+
+            <p>
+              Desenvolvido para praticar lógica de programação, orientação a
+              objetos e estruturação de sistemas.
+            </p>
+
+            <div class="tag-list">
+              <span>Java</span>
+              <span>POO</span>
+              <span>Lógica</span>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <h3>Análise de dados</h3>
+
+            <p>
+              Projetos de estudo envolvendo organização, tratamento,
+              exploração e visualização de dados.
+            </p>
+
+            <p>
+              Aplicação de conceitos de Python, Pandas, indicadores e tomada
+              de decisão baseada em dados.
+            </p>
+
+            <div class="tag-list">
+              <span>Python</span>
+              <span>Pandas</span>
+              <span>Dados</span>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <p class="eyebrow">Sites e páginas digitais</p>
+
+          <h2>Projetos de comunicação e presença digital.</h2>
+
+          <p>
+            Páginas desenvolvidas para apresentar serviços, organizar
+            informações e facilitar o contato com o público.
+          </p>
+        </div>
+
+        <div class="project-grid">
+          <article class="card project-card">
+            <h3>Apoio Familiar PE/PB</h3>
+
+            <p>
+              Landing page informativa desenvolvida para orientar famílias,
+              apresentar informações com clareza e facilitar o contato por
+              WhatsApp.
+            </p>
+
+            <div class="tag-list">
+              <span>Landing page</span>
+              <span>WhatsApp</span>
+              <span>Conversão</span>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <h3>CT É Preciso Acreditar</h3>
+
+            <p>
+              Site institucional criado para apresentar estrutura, proposta
+              de trabalho, equipe, serviços e canais de contato.
+            </p>
+
+            <div class="tag-list">
+              <span>Site institucional</span>
+              <span>HTML</span>
+              <span>CSS</span>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <h3>Portfólio Profissional</h3>
+
+            <p>
+              Site desenvolvido para apresentar minha trajetória, soluções,
+              projetos e posicionamento na conexão entre operações,
+              processos e tecnologia.
+            </p>
+
+            <div class="tag-list">
+              <span>Portfólio</span>
+              <span>GitHub Pages</span>
+              <span>Responsividade</span>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-header">
+          <p class="eyebrow">Controles e gestão</p>
+
+          <h2>Soluções para organização administrativa e financeira.</h2>
+
+          <p>
+            Estruturas criadas para transformar dados dispersos em controles
+            claros, organizados e acompanháveis.
+          </p>
+        </div>
+
+        <div class="project-grid">
+          <article class="card project-card">
+            <h3>Controles financeiros</h3>
+
+            <p>
+              Planilhas para registro e acompanhamento de entradas, saídas,
+              categorias, contas, pagamentos, vencimentos e indicadores.
+            </p>
+
+            <div class="tag-list">
+              <span>Financeiro</span>
+              <span>Fluxo de caixa</span>
+              <span>Indicadores</span>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <h3>Controle de estoque</h3>
+
+            <p>
+              Estruturas para registrar entradas, saídas, consumo, saldo,
+              reposições e histórico de movimentações.
+            </p>
+
+            <div class="tag-list">
+              <span>Estoque</span>
+              <span>Entradas</span>
+              <span>Saídas</span>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <h3>Controle de medicações</h3>
+
+            <p>
+              Organização de medicamentos, quantidades recebidas, consumo,
+              datas, previsões de término e necessidade de reposição.
+            </p>
+
+            <div class="tag-list">
+              <span>Controle</span>
+              <span>Rastreabilidade</span>
+              <span>Organização</span>
+            </div>
+          </article>
+
+          <article class="card project-card">
+            <h3>Gestão documental</h3>
+
+            <p>
+              Estruturação e padronização de contratos, recibos,
+              declarações, cadastros e arquivos digitais.
+            </p>
+
+            <div class="tag-list">
+              <span>Documentos</span>
+              <span>Google Drive</span>
+              <span>Padronização</span>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact section">
+      <div class="container">
+        <div class="contact-box">
+          <p class="eyebrow">Contato</p>
+
+          <h2>Quer conhecer melhor algum projeto?</h2>
+
+          <p>
+            Estou aberto a oportunidades profissionais e conversas sobre
+            operações, processos, planilhas, sistemas, dados e tecnologia
+            aplicada à gestão.
+          </p>
+
+          <div class="hero-actions">
+            <a
+              href="https://wa.me/5581997155279"
+              class="btn btn-primary"
+              target="_blank"
+              rel="noopener"
+            >
+              Falar pelo WhatsApp
+            </a>
+
+            <a
+              href="https://github.com/FernandoTechSeeker"
+              class="btn btn-secondary"
+              target="_blank"
+              rel="noopener"
+            >
+              Ver GitHub
+            </a>
+
+            <a
+              href="https://www.linkedin.com/in/fernandocanto/"
+              class="btn btn-secondary"
+              target="_blank"
+              rel="noopener"
+            >
+              Ver LinkedIn
+            </a>
+          </div>
         </div>
       </div>
     </section>
   </main>
 
-  <footer class="footer"><div class="container footer-content"><p><strong>Fernando Canto</strong> — Tecnologia aplicada à operação real.</p><p>© <span id="current-year">2026</span> Fernando Canto.</p></div></footer>
+  <footer class="footer">
+    <div class="container footer-content">
+      <p>
+        <strong>Fernando Canto</strong> — Tecnologia aplicada à operação real.
+      </p>
+
+      <p>
+        <a
+          href="https://github.com/FernandoTechSeeker"
+          target="_blank"
+          rel="noopener"
+        >
+          GitHub
+        </a>
+        ·
+        <a
+          href="https://www.linkedin.com/in/fernandocanto/"
+          target="_blank"
+          rel="noopener"
+        >
+          LinkedIn
+        </a>
+        ·
+        <a href="mailto:fcanto08@gmail.com">E-mail</a>
+        ·
+        <a
+          href="https://wa.me/5581997155279"
+          target="_blank"
+          rel="noopener"
+        >
+          WhatsApp
+        </a>
+      </p>
+
+      <p>
+        © <span id="current-year">2026</span> Fernando Canto.
+      </p>
+    </div>
+  </footer>
+
   <script src="assets/js/main.js"></script>
 </body>
 </html>
